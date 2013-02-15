@@ -21,3 +21,17 @@ $messages['en'] = array(
 $messages['qqq'] = array(
 	'spellingapi-desc' => '{{desc|name=SpellApi|url=http://www.mediawiki.org/wiki/Extension:SpellingApi}}',
 );
+
+/** German (Deutsch)
+ * @author Metalhead64
+ */
+$messages['de'] = array(
+	'spellingapi-desc' => 'Ergänzt ein API-Modul zur Rechtschreibprüfung',
+);
+
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'spellingapi-desc' => 'Proporciona un módulo da API para comprobar a ortografía',
+);
