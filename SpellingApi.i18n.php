@@ -17,9 +17,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Amire80
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'spellingapi-desc' => '{{desc|name=SpellApi|url=http://www.mediawiki.org/wiki/Extension:SpellingApi}}',
+	'spellingapi-desc' => '{{desc|name=Spelling Api|url=http://www.mediawiki.org/wiki/Extension:SpellingApi}}', # Fuzzy
 );
 
 /** German (Deutsch)
@@ -29,9 +30,30 @@ $messages['de'] = array(
 	'spellingapi-desc' => 'Ergänzt ein API-Modul zur Rechtschreibprüfung',
 );
 
+/** French (français)
+ * @author Gomoko
+ */
+$messages['fr'] = array(
+	'spellingapi-desc' => 'Fournit un module d’API pour la vérification d’orthographe',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
 	'spellingapi-desc' => 'Proporciona un módulo da API para comprobar a ortografía',
+);
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'spellingapi-desc' => 'スペル チェックを行う API モジュールを提供する',
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'spellingapi-desc' => 'Дава API-модул за проверка на правопис',
 );
