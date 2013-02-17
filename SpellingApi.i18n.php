@@ -18,9 +18,10 @@ $messages['en'] = array(
 /** Message documentation (Message documentation)
  * @author Amire80
  * @author Shirayuki
+ * @author 아라
  */
 $messages['qqq'] = array(
-	'spellingapi-desc' => '{{desc|name=Spelling Api|url=http://www.mediawiki.org/wiki/Extension:SpellingApi}}', # Fuzzy
+	'spellingapi-desc' => '{{desc|name=Spelling Api|url=http://www.mediawiki.org/wiki/Extension:SpellingApi}}',
 );
 
 /** German (Deutsch)
@@ -49,6 +50,20 @@ $messages['gl'] = array(
  */
 $messages['ja'] = array(
 	'spellingapi-desc' => 'スペル チェックを行う API モジュールを提供する',
+);
+
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'spellingapi-desc' => '맞춤법 검사를 위해 API 모듈을 제공합니다',
+);
+
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'spellingapi-desc' => "Liwwert en API-Modul fir d'Kontroll vun der Orthographie",
 );
 
 /** Macedonian (македонски)
