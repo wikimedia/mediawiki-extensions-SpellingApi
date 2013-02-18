@@ -45,6 +45,13 @@ $messages['gl'] = array(
 	'spellingapi-desc' => 'Proporciona un módulo da API para comprobar a ortografía',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'spellingapi-desc' => 'Fornisce un modulo API per il controllo ortografico',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
@@ -71,4 +78,25 @@ $messages['lb'] = array(
  */
 $messages['mk'] = array(
 	'spellingapi-desc' => 'Дава API-модул за проверка на правопис',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'spellingapi-desc' => "Dèje 'nu module de API pe verificà 'a scretture",
+);
+
+/** Ukrainian (українська)
+ * @author Ата
+ */
+$messages['uk'] = array(
+	'spellingapi-desc' => 'Надає API модуль перевірки орфографії',
+);
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'spellingapi-desc' => '为拼写检查提供一个API模块',
 );
