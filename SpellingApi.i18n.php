@@ -24,6 +24,13 @@ $messages['qqq'] = array(
 	'spellingapi-desc' => '{{desc|name=Spelling Api|url=http://www.mediawiki.org/wiki/Extension:SpellingApi}}',
 );
 
+/** Arabic (العربية)
+ * @author Tarawneh
+ */
+$messages['ar'] = array(
+	'spellingapi-desc' => 'توفر وحدة API نمطية للتدقيق الإملائي',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
