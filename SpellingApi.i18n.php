@@ -52,6 +52,13 @@ $messages['gl'] = array(
 	'spellingapi-desc' => 'Proporciona un módulo da API para comprobar a ortografía',
 );
 
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'spellingapi-desc' => 'Staja API-modul za kontrolowanje prawopisa k dispoziciji',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
