@@ -94,6 +94,13 @@ $messages['mk'] = array(
 	'spellingapi-desc' => 'Дава API-модул за проверка на правопис',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'spellingapi-desc' => 'Biedt een API-module voor spellingscontrole',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
