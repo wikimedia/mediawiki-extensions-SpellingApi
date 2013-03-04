@@ -31,6 +31,13 @@ $messages['ar'] = array(
 	'spellingapi-desc' => 'توفر وحدة API نمطية للتدقيق الإملائي',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'spellingapi-desc' => 'Ufre un módulu de la API pa comprobar la ortografía',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
