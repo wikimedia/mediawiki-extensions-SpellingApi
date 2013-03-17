@@ -38,6 +38,13 @@ $messages['ast'] = array(
 	'spellingapi-desc' => 'Ufre un módulu de la API pa comprobar la ortografía',
 );
 
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'spellingapi-desc' => 'Прапануе API для праверкі правапісу',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
