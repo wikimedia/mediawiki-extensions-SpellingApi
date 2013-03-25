@@ -122,6 +122,13 @@ $messages['roa-tara'] = array(
 	'spellingapi-desc' => "Dèje 'nu module de API pe verificà 'a scretture",
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'spellingapi-desc' => 'Nagbibigay ng isang modyul ng API para sa pagsusuri ng baybay',
+);
+
 /** Ukrainian (українська)
  * @author Ата
  */
