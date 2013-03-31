@@ -47,9 +47,10 @@ $messages['be-tarask'] = array(
 
 /** German (Deutsch)
  * @author Metalhead64
+ * @author Purodha
  */
 $messages['de'] = array(
-	'spellingapi-desc' => 'Ergänzt ein API-Modul zur Rechtschreibprüfung',
+	'spellingapi-desc' => 'Ein API-Modul zur Rechtschreibprüfung',
 );
 
 /** French (français)
