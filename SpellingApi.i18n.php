@@ -95,6 +95,13 @@ $messages['ko'] = array(
 	'spellingapi-desc' => '맞춤법 검사를 위해 API 모듈을 제공합니다',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'spellingapi-desc' => 'E Zohsazprojramm för de Ottojrafih ze prööve.',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
