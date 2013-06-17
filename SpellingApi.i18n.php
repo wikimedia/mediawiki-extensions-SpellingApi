@@ -150,3 +150,10 @@ $messages['uk'] = array(
 $messages['zh-hans'] = array(
 	'spellingapi-desc' => '为拼写检查提供一个API模块',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'spellingapi-desc' => '為拼字檢查提供一個API模組',
+);
