@@ -123,6 +123,13 @@ $messages['nl'] = array(
 	'spellingapi-desc' => 'Biedt een API-module voor spellingscontrole',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'spellingapi-desc' => 'Provesís un modul d’API per la verificacion d’ortografia',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
