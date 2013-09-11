@@ -130,6 +130,20 @@ $messages['oc'] = array(
 	'spellingapi-desc' => 'Provesís un modul d’API per la verificacion d’ortografia',
 );
 
+/** Portuguese (português)
+ * @author Cainamarques
+ */
+$messages['pt'] = array(
+	'spellingapi-desc' => 'Fornece um módulo API para verificação ortográfica',
+);
+
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'spellingapi-desc' => 'Proporciona um módulo API para verificação ortográfica',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
