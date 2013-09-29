@@ -151,6 +151,13 @@ $messages['roa-tara'] = array(
 	'spellingapi-desc' => "Dèje 'nu module de API pe verificà 'a scretture",
 );
 
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'spellingapi-desc' => 'Предоставляет модуль API для проверки орфографии',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
