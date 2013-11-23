@@ -53,6 +53,13 @@ $messages['de'] = array(
 	'spellingapi-desc' => 'Ein API-Modul zur Rechtschreibprüfung',
 );
 
+/** Spanish (español)
+ * @author Fitoschido
+ */
+$messages['es'] = array(
+	'spellingapi-desc' => 'Proporciona un módulo de API para comprobar la ortografía',
+);
+
 /** French (français)
  * @author Gomoko
  */
