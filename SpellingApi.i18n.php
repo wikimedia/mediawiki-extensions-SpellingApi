@@ -60,6 +60,13 @@ $messages['es'] = array(
 	'spellingapi-desc' => 'Proporciona un módulo de API para comprobar la ortografía',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'spellingapi-desc' => 'ارائه یک ماژول آی‌پی‌آی برای بررسی املاء',
+);
+
 /** French (français)
  * @author Gomoko
  */
