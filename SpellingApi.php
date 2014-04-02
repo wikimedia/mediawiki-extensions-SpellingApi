@@ -7,13 +7,12 @@
  *
  * @author Amir E. Aharoni, 2013
  * @license GPL v2 or later
- * @version 0.1
  */
 
 $wgExtensionCredits[ 'api' ][] = array(
 	'path' => __FILE__,
 	'name' => 'SpellingApi',
-	'version' => '0.1',
+	'version' => '0.2.0',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:SpellingApi',
 	'author' => array(
 		'Amir E. Aharoni',
@@ -27,6 +26,7 @@ $wgExtensionCredits[ 'api' ][] = array(
 
 // Register files
 $wgAutoloadClasses[ 'ApiQuerySpellcheck' ] = __DIR__ . '/api/ApiQuerySpellcheck.php';
+$wgMessagesDirs['SpellingApi'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles[ 'SpellingApi' ] = __DIR__ . '/SpellingApi.i18n.php';
 
 // Register the API module
