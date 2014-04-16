@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cedric31"
-        ]
-    },
-    "spellingapi-desc": "Provesís un modul d’API per la verificacion d’ortografia"
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"spellingapi-desc": "Provesís un modul d’API per la verificacion d’ortografia"
 }

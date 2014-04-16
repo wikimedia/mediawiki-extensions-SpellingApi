@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fitoschido"
-        ]
-    },
-    "spellingapi-desc": "Proporciona un módulo de API para comprobar la ortografía"
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"spellingapi-desc": "Proporciona un módulo de API para comprobar la ortografía"
 }

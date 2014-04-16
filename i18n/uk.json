@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ата"
-        ]
-    },
-    "spellingapi-desc": "Надає API модуль перевірки орфографії"
+	"@metadata": {
+		"authors": [
+			"Ата"
+		]
+	},
+	"spellingapi-desc": "Надає API модуль перевірки орфографії"
 }

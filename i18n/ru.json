@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Okras"
-        ]
-    },
-    "spellingapi-desc": "Предоставляет модуль API для проверки орфографии"
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"spellingapi-desc": "Предоставляет модуль API для проверки орфографии"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "spellingapi-desc": "スペル チェックを行う API モジュールを提供する"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"spellingapi-desc": "スペル チェックを行う API モジュールを提供する"
 }

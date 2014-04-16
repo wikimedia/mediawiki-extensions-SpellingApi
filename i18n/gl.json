@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Toliño"
-        ]
-    },
-    "spellingapi-desc": "Proporciona un módulo da API para comprobar a ortografía"
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"spellingapi-desc": "Proporciona un módulo da API para comprobar a ortografía"
 }

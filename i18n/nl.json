@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "spellingapi-desc": "Biedt een API-module voor spellingscontrole"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"spellingapi-desc": "Biedt een API-module voor spellingscontrole"
 }

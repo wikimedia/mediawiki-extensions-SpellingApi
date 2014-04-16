@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Justincheng12345"
-        ]
-    },
-    "spellingapi-desc": "為拼字檢查提供一個API模組"
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"spellingapi-desc": "為拼字檢查提供一個API模組"
 }

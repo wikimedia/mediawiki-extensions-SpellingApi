@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michawiki"
-        ]
-    },
-    "spellingapi-desc": "Staja API-modul za kontrolowanje prawopisa k dispoziciji"
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"spellingapi-desc": "Staja API-modul za kontrolowanje prawopisa k dispoziciji"
 }
