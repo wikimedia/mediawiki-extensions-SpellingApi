@@ -3,8 +3,9 @@
 		"authors": [
 			"Amire80",
 			"Shirayuki",
-			"아라"
+			"아라",
+			"Umherirrender"
 		]
 	},
-	"spellingapi-desc": "{{desc|name=Spelling Api|url=http://www.mediawiki.org/wiki/Extension:SpellingApi}}"
+	"spellingapi-desc": "{{desc|name=Spelling Api|url=https://www.mediawiki.org/wiki/Extension:SpellingApi}}"
 }
