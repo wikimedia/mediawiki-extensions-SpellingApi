@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Amire80"
-        ]
-    },
-    "spellingapi-desc": "Provides an API module for checking spelling"
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"spellingapi-desc": "Provides an API module for checking spelling"
 }
