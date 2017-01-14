@@ -68,15 +68,4 @@ class ApiQuerySpellcheck extends ApiBase {
 			),
 		);
 	}
-
-	public function getDescription() {
-		return 'Check the spelling of a text string.';
-	}
-
-	public function getParamDescription() {
-		return array(
-			'text'           => 'Text, the spelling of which you want to check.',
-			'langcode'       => 'Language code. The default is the the code of $wgContLang.',
-		);
-	}
 }
