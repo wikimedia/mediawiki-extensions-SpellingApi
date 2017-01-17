@@ -6,5 +6,5 @@
 		]
 	},
 	"spellingapi-desc": "Ein API-Modul zur Rechtschreibprüfung",
-	"apihelp-spellingapi-param-langcode": "Sprachcode. Standard ist der Code von $wgContLang."
+	"apihelp-spellingapi-param-langcode": "Sprachcode. Standard ist der Wert der Konfigurationsvariable $wgContLang."
 }

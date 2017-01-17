@@ -4,5 +4,8 @@
 			"Bjankuloski06"
 		]
 	},
-	"spellingapi-desc": "Дава извршнички модул за проверка на правопис"
+	"spellingapi-desc": "Дава извршнички модул за проверка на правопис",
+	"apihelp-spellingapi-description": "Проверка на правописот во низа текст.",
+	"apihelp-spellingapi-param-text": "Текст чиј правопис треба да се провери.",
+	"apihelp-spellingapi-param-langcode": "Јазичен код. По основно, кодот на $wgContLang."
 }

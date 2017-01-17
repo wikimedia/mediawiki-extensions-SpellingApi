@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"apihelp-spellingapi-param-langcode": "Kod języka. Domyślnie jest to kod $wgContLang."
+}

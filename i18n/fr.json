@@ -4,5 +4,8 @@
 			"Gomoko"
 		]
 	},
-	"spellingapi-desc": "Fournit un module d’API pour la vérification d’orthographe"
+	"spellingapi-desc": "Fournit un module d’API pour la vérification d’orthographe",
+	"apihelp-spellingapi-description": "Vérifier l’orthographe d’une chaîne de texte.",
+	"apihelp-spellingapi-param-text": "Texte, l’orthographe que vous voulez vérifier.",
+	"apihelp-spellingapi-param-langcode": "Code de langue. Par défaut, c’est le code de $wgContLang."
 }
