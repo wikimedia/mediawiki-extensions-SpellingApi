@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wizardist"
+			"Wizardist",
+			"Red Winged Duck"
 		]
 	},
-	"spellingapi-desc": "Прапануе API для праверкі правапісу"
+	"spellingapi-desc": "Прапануе API для праверкі правапісу",
+	"apihelp-spellingapi-description": "Праверка артаграфіі ў радку тэксту."
 }
