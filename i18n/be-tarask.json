@@ -6,5 +6,6 @@
 		]
 	},
 	"spellingapi-desc": "Прапануе API для праверкі правапісу",
-	"apihelp-spellingapi-description": "Праверка артаграфіі ў радку тэксту."
+	"apihelp-spellingapi-description": "Праверка артаграфіі ў радку тэксту.",
+	"apihelp-spellingapi-param-text": "Тэкст, артаграфію якога вы жадаеце праверыць."
 }
