@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lokal Profil"
+			"Lokal Profil",
+			"WikiPhoenix"
 		]
 	},
-	"spellingapi-desc": "Tillgängliggör en API-modul för stavningskontroll"
+	"spellingapi-desc": "Tillgängliggör en API-modul för stavningskontroll",
+	"apihelp-spellingapi-description": "Kontrollerar stavningen för en textsträng.",
+	"apihelp-spellingapi-param-text": "Text, stavningen som du vill kontrollera.",
+	"apihelp-spellingapi-param-langcode": "Språkkod. Standard är koden för $wgContLang."
 }
