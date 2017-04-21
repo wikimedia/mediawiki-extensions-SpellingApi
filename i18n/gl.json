@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Toliño",
-			"Banjo"
+			"Banjo",
+			"Elisardojm"
 		]
 	},
 	"spellingapi-desc": "Proporciona un módulo da API para comprobar a ortografía",
-	"apihelp-spellingapi-description": "Comprobar a ortografía dunha cadea de texto"
+	"apihelp-spellingapi-description": "Comprobar a ortografía dunha cadea de texto",
+	"apihelp-spellingapi-param-text": "Texto, do que quere revisar a ortografía.",
+	"apihelp-spellingapi-param-langcode": "Código de lingua. Por defecto é o código de $wgContLang."
 }
