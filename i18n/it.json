@@ -4,5 +4,6 @@
 			"Beta16"
 		]
 	},
-	"spellingapi-desc": "Fornisce un modulo API per il controllo ortografico"
+	"spellingapi-desc": "Fornisce un modulo API per il controllo ortografico",
+	"apihelp-spellingapi-summary": "Controlla l'ortografia di una stringa di testo."
 }
