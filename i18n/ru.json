@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"Facenapalm"
 		]
 	},
-	"spellingapi-desc": "Предоставляет модуль API для проверки орфографии"
+	"spellingapi-desc": "Предоставляет модуль API для проверки орфографии",
+	"apihelp-spellingapi-description": "Проверка орфографии текста.",
+	"apihelp-spellingapi-summary": "Проверка орфографии текста.",
+	"apihelp-spellingapi-param-text": "Проверяемый текст.",
+	"apihelp-spellingapi-param-langcode": "Код языка. По умолчанию — код $wgContLang."
 }
