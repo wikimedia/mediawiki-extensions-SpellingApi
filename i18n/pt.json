@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cainamarques"
+			"Cainamarques",
+			"Hamilton Abreu"
 		]
 	},
-	"spellingapi-desc": "Fornece um módulo API para verificação ortográfica"
+	"spellingapi-desc": "Fornece um módulo API para verificação ortográfica",
+	"apihelp-spellingapi-description": "Verificar a ortografia de um texto.",
+	"apihelp-spellingapi-summary": "Verificar a ortografia de um texto.",
+	"apihelp-spellingapi-param-text": "Texto do qual pretende verificar a ortografia.",
+	"apihelp-spellingapi-param-langcode": "Código de língua. Por omissão é o código de $wgContLang."
 }
