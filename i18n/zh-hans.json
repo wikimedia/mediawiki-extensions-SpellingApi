@@ -7,6 +7,7 @@
 	},
 	"spellingapi-desc": "为拼写检查提供一个API模块",
 	"apihelp-spellingapi-description": "检查文本字符串的拼写。",
+	"apihelp-spellingapi-summary": "检查文本字符串的拼写。",
 	"apihelp-spellingapi-param-text": "您要检查拼写的文本。",
 	"apihelp-spellingapi-param-langcode": "语言代码。默认值为$wgContLang的代码。"
 }
