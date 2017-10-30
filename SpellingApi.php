@@ -27,7 +27,6 @@ $wgExtensionCredits[ 'api' ][] = array(
 // Register files
 $wgAutoloadClasses[ 'ApiQuerySpellcheck' ] = __DIR__ . '/api/ApiQuerySpellcheck.php';
 $wgMessagesDirs['SpellingApi'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles[ 'SpellingApi' ] = __DIR__ . '/SpellingApi.i18n.php';
 
 // Register the API module
 $wgAPIModules['spellingapi'] = 'ApiQuerySpellcheck';
