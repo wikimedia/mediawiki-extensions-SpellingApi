@@ -4,5 +4,9 @@
 			"Jon Harald Søby"
 		]
 	},
-	"spellingapi-desc": "Gir en API-modul for stavekontroll"
+	"spellingapi-desc": "Gir en API-modul for stavekontroll",
+	"apihelp-spellingapi-description": "Sjekk stavingen av en tekststreng.",
+	"apihelp-spellingapi-summary": "Sjekk stavingen av en tekststreng.",
+	"apihelp-spellingapi-param-text": "Teksten du vil kontrollere stavingen i.",
+	"apihelp-spellingapi-param-langcode": "Språkkode. Standarden er koden i $wgContLang."
 }
