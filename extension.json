@@ -1,0 +1,25 @@
+{
+	"name": "SpellingApi",
+	"version": "0.3.0",
+	"author": [
+		"Amir E. Aharoni",
+		"Anish Patil",
+		"Niklas Laxström"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:SpellingApi",
+	"descriptionmsg": "spellingapi-desc",
+	"license-name": "GPL-2.0-or-later",
+	"type": "api",
+	"APIModules": {
+		"spellingapi": "ApiQuerySpellcheck"
+	},
+	"MessagesDirs": {
+		"SpellingApi": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"ApiQuerySpellcheck": "api/ApiQuerySpellcheck.php"
+	},
+	"manifest_version": 1
+}

@@ -9,24 +9,16 @@
  * @license GPL v2 or later
  */
 
-$wgExtensionCredits[ 'api' ][] = array(
-	'path' => __FILE__,
-	'name' => 'SpellingApi',
-	'version' => '0.2.0',
-	'url' => 'https://www.mediawiki.org/wiki/Extension:SpellingApi',
-	'author' => array(
-		'Amir E. Aharoni',
-		'Anish Patil',
-		'Niklas Laxström',
-	),
-	'descriptionmsg' => 'spellingapi-desc'
-);
-
-/* Setup */
-
-// Register files
-$wgAutoloadClasses[ 'ApiQuerySpellcheck' ] = __DIR__ . '/api/ApiQuerySpellcheck.php';
-$wgMessagesDirs['SpellingApi'] = __DIR__ . '/i18n';
-
-// Register the API module
-$wgAPIModules['spellingapi'] = 'ApiQuerySpellcheck';
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'SpellingApi' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['SpellingApi'] = __DIR__ . '/i18n';
+	wfWarn(
+		'Deprecated PHP entry point used for the SpellingApi extension. ' .
+		'Please use wfLoadExtension instead, ' .
+		'see https://www.mediawiki.org/wiki/Extension_registration for more details.'
+	);
+	return;
+} else {
+	die( 'This version of the SpellingApi extension requires MediaWiki 1.25+' );
+}
