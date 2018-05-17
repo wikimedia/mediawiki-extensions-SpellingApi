@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"apihelp-spellingapi-param-langcode": "Κωδικός γλώσσας. Η προεπιλογή είναι ο κώδικας του $wgContLang."
+}
