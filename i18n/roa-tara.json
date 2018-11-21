@@ -4,5 +4,9 @@
 			"Joetaras"
 		]
 	},
-	"spellingapi-desc": "Dèje 'nu module de API pe verificà 'a scretture"
+	"spellingapi-desc": "Dèje 'nu module de API pe verificà 'a scretture",
+	"apihelp-spellingapi-description": "Condrolle le lettere de 'nu teste stringhe.",
+	"apihelp-spellingapi-summary": "Condrolle le lettere de 'nu teste stringhe.",
+	"apihelp-spellingapi-param-text": "Teste, le lettere ca vue ccù condrolle.",
+	"apihelp-spellingapi-param-langcode": "Codece d'a lènghe. 'U predefinite jè 'u codece de $wgContLang."
 }
