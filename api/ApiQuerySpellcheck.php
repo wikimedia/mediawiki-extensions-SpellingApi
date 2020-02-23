@@ -12,6 +12,8 @@
  * @license GPL v2 or later
  */
 
+use MediaWiki\MediaWikiServices;
+
 class ApiQuerySpellcheck extends ApiBase {
 	protected $langCode;
 
@@ -21,8 +23,7 @@ class ApiQuerySpellcheck extends ApiBase {
 		if ( $params['langcode'] ) {
 			$this->langCode = $params['langcode'];
 		} else {
-			global $wgContLang;
-			$this->langCode = $wgContLang->getCode();
+			$this->langCode = MediaWikiServices::getInstance()->getContentLanguage()->getCode();
 		}
 
 		$result = $this->spellCheck( $params['text'] );

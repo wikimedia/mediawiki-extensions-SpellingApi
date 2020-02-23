@@ -8,5 +8,5 @@
 	"apihelp-spellingapi-description": "Check the spelling of a text string.",
 	"apihelp-spellingapi-summary": "Check the spelling of a text string.",
 	"apihelp-spellingapi-param-text": "Text, the spelling of which you want to check.",
-	"apihelp-spellingapi-param-langcode": "Language code. The default is the the code of $wgContLang."
+	"apihelp-spellingapi-param-langcode": "Language code. The default is the code of the wiki's content language."
 }
