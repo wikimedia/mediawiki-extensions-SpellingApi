@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"apihelp-spellingapi-param-langcode": "Codice de lingua. Le valor predefinite es le codice del lingua de contento del wiki."
+}

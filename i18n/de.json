@@ -9,5 +9,5 @@
 	"apihelp-spellingapi-description": "Prüft die Rechtschreibung einer Textzeichenfolge.",
 	"apihelp-spellingapi-summary": "Überprüft die Rechtschreibung einer Textzeichenfolge.",
 	"apihelp-spellingapi-param-text": "Text, die Rechtschreibung, die du überprüfen möchtest.",
-	"apihelp-spellingapi-param-langcode": "Sprachcode. Standard ist der Wert der Konfigurationsvariable $wgContLang."
+	"apihelp-spellingapi-param-langcode": "Sprachcode. Der Standard ist der Code der Inhaltssprache des Wikis."
 }

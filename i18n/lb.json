@@ -4,5 +4,6 @@
 			"Robby"
 		]
 	},
-	"spellingapi-desc": "Liwwert en API-Modul fir d'Kontroll vun der Orthographie"
+	"spellingapi-desc": "Liwwert en API-Modul fir d'Kontroll vun der Orthographie",
+	"apihelp-spellingapi-param-langcode": "Sproochcode. De Standard ass de Code vun der Sprooch vum Inhalt vun der Wiki."
 }
