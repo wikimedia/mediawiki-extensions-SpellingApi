@@ -9,7 +9,7 @@
  * @author Anish Patil, 2013
  * @author Niklas Laxström, 2013
  *
- * @license GPL v2 or later
+ * @license GPL-2.0-or-later
  */
 
 use MediaWiki\MediaWikiServices;
@@ -30,6 +30,10 @@ class ApiQuerySpellcheck extends ApiBase {
 		$this->getResult()->addValue( null, $this->getModuleName(), $result );
 	}
 
+	/**
+	 * @param string $text
+	 * @return string
+	 */
 	private function spellCheck( $text ) {
 		$pspell = pspell_new( $this->langCode );
 
@@ -44,7 +48,7 @@ class ApiQuerySpellcheck extends ApiBase {
 		// TODO: Make it smarter for languages that don't use spaces
 		// and for punctuation.
 		$words = explode( ' ', $stripped );
-		$result = array();
+		$result = [];
 
 		foreach ( $words as $word ) {
 			if ( pspell_check( $pspell, $word ) ) {
@@ -57,16 +61,19 @@ class ApiQuerySpellcheck extends ApiBase {
 		return implode( ' ', $result );
 	}
 
+	/**
+	 * @return string
+	 */
 	public function getAllowedParams() {
-		return array(
-			'text' => array (
+		return [
+			'text' => [
 				ApiBase::PARAM_TYPE => 'string',
 				ApiBase::PARAM_REQUIRED => true
-			),
-			'langcode' => array (
+			],
+			'langcode' => [
 				ApiBase::PARAM_TYPE => 'string',
 				ApiBase::PARAM_REQUIRED => false
-			),
-		);
+			],
+		];
 	}
 }
