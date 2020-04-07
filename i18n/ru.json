@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
 			"Facenapalm",
-			"Movses"
+			"Movses",
+			"Okras"
 		]
 	},
 	"spellingapi-desc": "Предоставляет модуль API для проверки орфографии",

@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Lokal Profil",
-			"WikiPhoenix",
-			"Technic2"
+			"Technic2",
+			"WikiPhoenix"
 		]
 	},
 	"spellingapi-desc": "Tillgängliggör en API-modul för stavningskontroll",

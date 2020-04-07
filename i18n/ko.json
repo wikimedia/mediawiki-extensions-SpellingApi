@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
-			"Ykhwong"
+			"Ykhwong",
+			"아라"
 		]
 	},
 	"spellingapi-desc": "맞춤법 검사를 위해 API 모듈을 제공합니다",

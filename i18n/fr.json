@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Eneelk",
 			"Gomoko",
-			"Wladek92",
-			"Eneelk"
+			"Wladek92"
 		]
 	},
 	"spellingapi-desc": "Fournit un module d’API pour la vérification d’orthographe",
