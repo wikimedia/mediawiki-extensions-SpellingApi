@@ -2,8 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Armin1392",
+			"FarsiNevis",
 			"Huji"
 		]
 	},
-	"spellingapi-desc": "ارائه یک پودمان رابط برنامه‌نویسی برای بررسی املا"
+	"spellingapi-desc": "ارائه یک پودمان رابط برنامه‌نویسی برای بررسی املا",
+	"apihelp-spellingapi-description": "املای یک رشتهٔ متنی را وارسی کن.",
+	"apihelp-spellingapi-summary": "املای یک رشتهٔ متنی را وارسی کن.",
+	"apihelp-spellingapi-param-text": "متنی که می‌خواهید املای آن را وارسی کنید.",
+	"apihelp-spellingapi-param-langcode": "کد زبان. پیش‌فرض آن، کد زبان محتوای ویکی است."
 }
