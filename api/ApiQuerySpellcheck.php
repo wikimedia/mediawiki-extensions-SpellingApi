@@ -15,6 +15,7 @@
 use MediaWiki\MediaWikiServices;
 
 class ApiQuerySpellcheck extends ApiBase {
+	/** @var string */
 	protected $langCode;
 
 	public function execute() {
