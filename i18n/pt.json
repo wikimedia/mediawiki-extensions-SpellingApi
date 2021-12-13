@@ -9,5 +9,5 @@
 	"apihelp-spellingapi-description": "Verificar a ortografia de um texto.",
 	"apihelp-spellingapi-summary": "Verificar a ortografia de um texto.",
 	"apihelp-spellingapi-param-text": "Texto do qual pretende verificar a ortografia.",
-	"apihelp-spellingapi-param-langcode": "Código de língua. Por omissão é o código de $wgContLang."
+	"apihelp-spellingapi-param-langcode": "Código de língua. Por omissão, será o código da língua de conteúdo da wiki."
 }
