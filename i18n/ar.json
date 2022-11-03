@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Tarawneh",
-			"ديفيد"
+			"ديفيد",
+			"Meno25"
 		]
 	},
 	"spellingapi-desc": "توفر وحدة API نمطية للتدقيق الإملائي",
 	"apihelp-spellingapi-description": "تحقق من هجاء سلسلة النص.",
 	"apihelp-spellingapi-summary": "تحقق من هجاء سلسلة النص.",
 	"apihelp-spellingapi-param-text": "النص، الهجاء الذي تريد التحقق منه.",
-	"apihelp-spellingapi-param-langcode": "رمز اللغة، الافتراضي هو رمز $wgContLang."
+	"apihelp-spellingapi-param-langcode": "رمز اللغة. الافتراضي هو رمز لغة محتوى wiki."
 }
