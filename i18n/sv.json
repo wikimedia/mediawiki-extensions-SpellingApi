@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Lokal Profil",
+			"McDutchie",
 			"Technic2",
 			"WikiPhoenix"
 		]
 	},
 	"spellingapi-desc": "Tillgängliggör en API-modul för stavningskontroll",
 	"apihelp-spellingapi-description": "Kontrollerar stavningen för en textsträng.",
-	"apihelp-spellingapi-param-text": "Text, stavningen som du vill kontrollera.",
+	"apihelp-spellingapi-param-text": "Texten som du vill kontrollera stavningen i.",
 	"apihelp-spellingapi-param-langcode": "Språkkod. Standard är koden för wikins innehållsspråk."
 }
