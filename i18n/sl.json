@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"spellingapi-desc": "Zagotavlja API-modul za preverjanje črkovanja",
+	"apihelp-spellingapi-description": "Preveri črkovanje besedilnega niza.",
+	"apihelp-spellingapi-summary": "Preveri črkovanje besedilnega niza.",
+	"apihelp-spellingapi-param-text": "Besedilo, katerega črkovanje želite preveriti.",
+	"apihelp-spellingapi-param-langcode": "Oznaka jezika. Prvizeta oznaka je oznaka jezika vsebine vikija."
+}
