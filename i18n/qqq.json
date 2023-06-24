@@ -8,7 +8,6 @@
 		]
 	},
 	"spellingapi-desc": "{{desc|name=Spelling Api|url=https://www.mediawiki.org/wiki/Extension:SpellingApi}}",
-	"apihelp-spellingapi-description": "{{doc-apihelp-description|spellingapi}}",
 	"apihelp-spellingapi-summary": "{{doc-apihelp-summary|spellingapi}}",
 	"apihelp-spellingapi-param-text": "{{doc-apihelp-param|spellingapi|text}}",
 	"apihelp-spellingapi-param-langcode": "{{doc-apihelp-param|spellingapi|langcode}}"
