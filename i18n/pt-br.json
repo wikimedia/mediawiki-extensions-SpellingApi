@@ -7,7 +7,6 @@
 		]
 	},
 	"spellingapi-desc": "Proporciona um módulo API para verificação ortográfica",
-	"apihelp-spellingapi-description": "Verificar a ortografia de um texto.",
 	"apihelp-spellingapi-summary": "Verificar a ortografia de um texto.",
 	"apihelp-spellingapi-param-text": "Texto do qual pretende verificar a ortografia.",
 	"apihelp-spellingapi-param-langcode": "Código do idioma O padrão é o código do idioma do conteúdo do wiki."

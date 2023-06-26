@@ -5,7 +5,6 @@
 		]
 	},
 	"spellingapi-desc": "Provizi API-modulon por kontroli ortografion",
-	"apihelp-spellingapi-description": "Kontroli la ortografion de teksto.",
 	"apihelp-spellingapi-summary": "Kontroli la ortografion de teksto.",
 	"apihelp-spellingapi-param-text": "Teksto, kies ortografio estas kontrolota.",
 	"apihelp-spellingapi-param-langcode": "Lingvokodo. La implicita estas la kodo de $wgContLang."

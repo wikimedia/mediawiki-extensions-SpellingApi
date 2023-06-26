@@ -5,7 +5,6 @@
 		]
 	},
 	"spellingapi-desc": "Ufre un módulu de la API pa comprobar la ortografía",
-	"apihelp-spellingapi-description": "Comprobar la ortografía d'una cadena de testu.",
 	"apihelp-spellingapi-summary": "Comprobar la ortografía d'una cadena de testu.",
 	"apihelp-spellingapi-param-text": "Testu del que quies comprobar la ortografía.",
 	"apihelp-spellingapi-param-langcode": "Códigu de llingua. de mou predetermináu ye'l códigu de $wgContLang."

@@ -5,7 +5,6 @@
 		]
 	},
 	"spellingapi-desc": "Дава извршнички модул за проверка на правопис",
-	"apihelp-spellingapi-description": "Проверка на правописот во низа текст.",
 	"apihelp-spellingapi-summary": "Проверка на правописот во низа текст.",
 	"apihelp-spellingapi-param-text": "Текст чиј правопис треба да се провери.",
 	"apihelp-spellingapi-param-langcode": "Јазичен код. По основно, ова е кодот на содржинскиот јазик на викито."

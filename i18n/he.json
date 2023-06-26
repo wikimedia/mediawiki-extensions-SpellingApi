@@ -6,7 +6,6 @@
 		]
 	},
 	"spellingapi-desc": "מספק מודול API לבדיקת איות",
-	"apihelp-spellingapi-description": "בדיקת האיות של מחרוזת טקסט.",
 	"apihelp-spellingapi-summary": "בדיקת האיות של מחרוזת טקסט.",
 	"apihelp-spellingapi-param-text": "טקסט, שאת האיות שלו ברצונך לבדוק.",
 	"apihelp-spellingapi-param-langcode": "קוד שפה. ברירת המחדל היא הקוד של שפת התוכן של הוויקי."

@@ -5,7 +5,6 @@
 		]
 	},
 	"spellingapi-desc": "Daje izvršnički modul za provjeru pravopisa",
-	"apihelp-spellingapi-description": "Provjera pravopisa u nizi teksta.",
 	"apihelp-spellingapi-summary": "Provjera pravopisa u nizi teksta.",
 	"apihelp-spellingapi-param-text": "Tekst čiji pravopis treba da se provijeri.",
 	"apihelp-spellingapi-param-langcode": "Jezički kôd. Podrazumijevano, ovo je kôd jezika wikija."

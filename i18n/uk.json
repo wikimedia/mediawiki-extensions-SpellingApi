@@ -8,7 +8,6 @@
 		]
 	},
 	"spellingapi-desc": "Надає API модуль перевірки орфографії",
-	"apihelp-spellingapi-description": "Перевірити орфографію рядка тексту.",
 	"apihelp-spellingapi-summary": "Перевірити орфографію рядка тексту.",
 	"apihelp-spellingapi-param-text": "Текст, орфографію якого Ви хочете перевірити.",
 	"apihelp-spellingapi-param-langcode": "Код мови. За замовчуванням є код мови, якою написано вміст вікі."

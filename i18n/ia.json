@@ -5,7 +5,6 @@
 		]
 	},
 	"spellingapi-desc": "Forni un modulo API pro verificar le orthographia",
-	"apihelp-spellingapi-description": "Verificar le orthographia de un catena de texto.",
 	"apihelp-spellingapi-summary": "Verificar le orthographia de un catena de texto.",
 	"apihelp-spellingapi-param-text": "Le texto del qual verificar le orthographia.",
 	"apihelp-spellingapi-param-langcode": "Codice de lingua. Le valor predefinite es le codice del lingua de contento del wiki."

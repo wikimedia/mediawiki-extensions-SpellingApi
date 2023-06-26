@@ -5,7 +5,6 @@
 		]
 	},
 	"spellingapi-desc": "Yazım denetimi için bir API modülü sağlar",
-	"apihelp-spellingapi-description": "Bir metin dizesinin yazılışını kontrol edin.",
 	"apihelp-spellingapi-summary": "Bir metin dizesinin yazılışını kontrol edin.",
 	"apihelp-spellingapi-param-text": "Yazımını kontrol etmek istediğiniz metin.",
 	"apihelp-spellingapi-param-langcode": "Dil kodu. Varsayılan değer, vikinin içerik dilinin kodudur."

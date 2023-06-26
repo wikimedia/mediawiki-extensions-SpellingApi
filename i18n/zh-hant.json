@@ -6,7 +6,6 @@
 		]
 	},
 	"spellingapi-desc": "為拼字檢查提供一個API模組",
-	"apihelp-spellingapi-description": "檢查文字字串的拼寫。",
 	"apihelp-spellingapi-summary": "檢查文字字串的拼寫。",
 	"apihelp-spellingapi-param-text": "您所要檢查拼寫的文字。",
 	"apihelp-spellingapi-param-langcode": "語言編碼。預設是此 wiki 內容語言的編碼。"
