@@ -39,7 +39,7 @@ class ApiQuerySpellcheck extends ApiBase {
 		$pspell = pspell_new( $this->langCode );
 
 		if ( $pspell === false ) {
-			$this->dieUsage(
+			$this->dieWithError(
 				"Spelling dictionary for language '" . $this->langCode . "' could not be initialized",
 				'pspellnewerror'
 			);
