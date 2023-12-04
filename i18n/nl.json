@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand"
+			"Siebrand",
+			"Vistaus"
 		]
 	},
-	"spellingapi-desc": "Biedt een API-module voor spellingscontrole"
+	"spellingapi-desc": "Biedt een API-module voor spellingscontrole",
+	"apihelp-spellingapi-summary": "Controleer de spelling van een tekenreeks.",
+	"apihelp-spellingapi-param-text": "Tekst waarvan u de spelling wilt controleren.",
+	"apihelp-spellingapi-param-langcode": "De taalcode. De standaardwaarde is de code van de inhoudstaal van de wiki."
 }
