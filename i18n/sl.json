@@ -4,7 +4,7 @@
 			"Eleassar"
 		]
 	},
-	"spellingapi-desc": "Zagotavlja API-modul za preverjanje črkovanja",
+	"spellingapi-desc": "Zagotavlja modul API-ja za preverjanje črkovanja",
 	"apihelp-spellingapi-description": "Preveri črkovanje besedilnega niza.",
 	"apihelp-spellingapi-summary": "Preveri črkovanje besedilnega niza.",
 	"apihelp-spellingapi-param-text": "Besedilo, katerega črkovanje želite preveriti.",
