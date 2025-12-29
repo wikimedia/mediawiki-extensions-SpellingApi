@@ -10,5 +10,5 @@
 	"apihelp-spellingapi-description": "Праверка артаграфіі ў радку тэксту.",
 	"apihelp-spellingapi-summary": "Праверка артаграфіі ў радку тэксту.",
 	"apihelp-spellingapi-param-text": "Тэкст, артаграфію якога вы жадаеце праверыць.",
-	"apihelp-spellingapi-param-langcode": "Код мовы. Дапомна гэта код мовы зьместу вікі."
+	"apihelp-spellingapi-param-langcode": "Код мовы. Перадвызначана: код мовы зьместу вікі."
 }
