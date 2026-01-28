@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Woytecr"
+		]
+	},
+	"spellingapi-desc": "Dostarcza moduł API do sprawdzania pisowni",
+	"apihelp-spellingapi-summary": "Sprawdź pisownię ciągu tekstowego.",
+	"apihelp-spellingapi-param-text": "Tekst, którego pisownię chcesz sprawdzić.",
+	"apihelp-spellingapi-param-langcode": "Kod języka. Domyślnie jest to kod języka tej wiki."
+}
