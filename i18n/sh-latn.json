@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aca",
 			"Winston Sung"
 		]
 	},
-	"spellingapi-desc": "Daje izvršnički modul za provjeru pravopisa",
+	"spellingapi-desc": "Daje API modul za provjeru pravopisa",
 	"apihelp-spellingapi-summary": "Provjera pravopisa u nizi teksta.",
 	"apihelp-spellingapi-param-text": "Tekst čiji pravopis treba da se provijeri.",
 	"apihelp-spellingapi-param-langcode": "Jezički kôd. Podrazumijevano, ovo je kôd jezika wikija."
