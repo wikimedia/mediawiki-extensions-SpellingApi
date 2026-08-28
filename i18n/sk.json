@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"spellingapi-desc": "Poskytuje modul API na kontrolu pravopisu",
+	"apihelp-spellingapi-summary": "Skontrolovať pravopis textového reťazca.",
+	"apihelp-spellingapi-param-text": "Text, ktorého pravopis chcete skontrolovať.",
+	"apihelp-spellingapi-param-langcode": "Kód jazyka. Predvolene je to kód jazyka obsahu wiki."
+}
